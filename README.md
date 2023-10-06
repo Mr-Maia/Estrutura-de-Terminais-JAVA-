@@ -71,8 +71,3 @@ The application should adhere to the following design requirements:
 - Optimize performance for large datasets if applicable.
 - Ensure code modularity and maintainability.
 
----
-
-This README serves as an introduction to the Communication Terminal Network Management Application project. Please refer to the project documentation and source code for detailed information on how to use, configure, and contribute to this application.
-
-For questions, feedback, or issues, please contact [Your Name] at [Your Email Address].
