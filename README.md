@@ -1,4 +1,4 @@
-# Communication Terminal Network Management 
+# Terminal Network Management 
 
 ## Project Description
 
